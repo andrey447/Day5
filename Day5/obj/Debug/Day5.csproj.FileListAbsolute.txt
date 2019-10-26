@@ -1,0 +1,6 @@
+C:\Users\asus_\source\repos\Day5\Day5\obj\Debug\Day5.csprojAssemblyReference.cache
+C:\Users\asus_\source\repos\Day5\Day5\bin\Debug\Day5.exe.config
+C:\Users\asus_\source\repos\Day5\Day5\bin\Debug\Day5.exe
+C:\Users\asus_\source\repos\Day5\Day5\bin\Debug\Day5.pdb
+C:\Users\asus_\source\repos\Day5\Day5\obj\Debug\Day5.exe
+C:\Users\asus_\source\repos\Day5\Day5\obj\Debug\Day5.pdb
